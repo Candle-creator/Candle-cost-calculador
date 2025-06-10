@@ -1,1 +1,0 @@
-# Candle-cost-calculador
